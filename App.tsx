@@ -8,7 +8,7 @@ import { Loading } from "@components/Loading"
 export default function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Loading />
+      {/* <Loading /> */}
       <Groups />
     </ThemeProvider>
   )
