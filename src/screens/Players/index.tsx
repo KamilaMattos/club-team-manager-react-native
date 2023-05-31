@@ -1,8 +1,8 @@
+import { Input } from "@components/Input"
 import { Header } from "@components/Header"
+import { Subtitle } from "@components/Subtitle"
 import { ButtonIcon } from "@components/ButtonIcon"
 import { Container, Form } from "./styles"
-import { Subtitle } from "@components/Subtitle"
-import { Input } from "@components/Input"
 
 export function Players() {
   return (
